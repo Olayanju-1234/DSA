@@ -1,5 +1,3 @@
-# DSA
-
 # Data Structures and Algorithms Practice Repository
 
 This repository contains my solutions to various data structures and algorithms problems. I created this repository to keep track of my progress and to share my solutions with others who may find them helpful.
