@@ -13,7 +13,6 @@ Here are the data structures I have implemented so far:
 
 - Arrays and Strings
 
-
 ## Algorithms
 
 Here are the algorithms I have implemented so far:
