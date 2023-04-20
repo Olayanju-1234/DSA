@@ -11,10 +11,14 @@ This repository contains my solutions to various data structures and algorithms 
 
 Here are the data structures I have implemented so far:
 
-- Arrays and Strings
+- Strings
+- Arrays
+- Hash Tables
 
 ## Algorithms
 
 Here are the algorithms I have implemented so far:
 
 - Binary Search
+
+
