@@ -20,5 +20,6 @@ Here are the data structures I have implemented so far:
 Here are the algorithms I have implemented so far:
 
 - Binary Search
+- Dynamic Programming
 
 
