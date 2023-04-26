@@ -6,6 +6,9 @@ This repository contains my solutions to various data structures and algorithms 
 
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
+- [Searching Algorithms](#searching-algorithms)
+- [Sorting Algorithms](#sorting-algorithms)
+
 
 ## Data Structures
 
@@ -19,7 +22,22 @@ Here are the data structures I have implemented so far:
 
 Here are the algorithms I have implemented so far:
 
+- Searching Algorithms
+- Sorting Algorithms
+
+## Searching Algorithms
+
+Here are the searching algorithms I have implemented so far:
+
+- Linear Search
 - Binary Search
-- Dynamic Programming
+
+## Sorting Algorithms
+
+Here are the sorting algorithms I have implemented so far:
+
+- Insertion Sort
+- Merge Sort
+
 
 
